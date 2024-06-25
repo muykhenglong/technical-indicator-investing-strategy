@@ -1,0 +1,3 @@
+[submodule "strategy1_portfolio_rebalancing"]
+	path = strategy1_portfolio_rebalancing
+	url = https://github.com/muykhenglong/strategy1_portfolio_rebalancing
