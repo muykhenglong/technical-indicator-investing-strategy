@@ -1,3 +1,6 @@
 [submodule "strategy1_portfolio_rebalancing"]
 	path = strategy1_portfolio_rebalancing
 	url = https://github.com/muykhenglong/strategy1_portfolio_rebalancing
+[submodule "technical-indicator-investing-strategy"]
+	path = technical-indicator-investing-strategy
+	url = https://github.com/muykhenglong/strategy2_intraday_resistance_breakout
