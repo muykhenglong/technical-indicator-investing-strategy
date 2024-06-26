@@ -7,3 +7,6 @@
 [submodule "strategy2_intraday_resistance_breakout"]
 	path = strategy2_intraday_resistance_breakout
 	url = https://github.com/muykhenglong/strategy2_intraday_resistance_breakout
+[submodule "strategy3_intraday_renko_obv"]
+	path = strategy3_intraday_renko_obv
+	url = https://github.com/muykhenglong/strategy3_intraday_renko_obv
