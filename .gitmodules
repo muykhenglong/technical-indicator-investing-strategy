@@ -10,3 +10,6 @@
 [submodule "strategy3_intraday_renko_obv"]
 	path = strategy3_intraday_renko_obv
 	url = https://github.com/muykhenglong/strategy3_intraday_renko_obv
+[submodule "strategy4_intraday_renko_macd"]
+	path = strategy4_intraday_renko_macd
+	url = https://github.com/muykhenglong/strategy4_intraday_renko_macd
