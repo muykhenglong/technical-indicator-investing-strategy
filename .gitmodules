@@ -4,3 +4,6 @@
 [submodule "technical-indicator-investing-strategy"]
 	path = technical-indicator-investing-strategy
 	url = https://github.com/muykhenglong/strategy2_intraday_resistance_breakout
+[submodule "strategy2_intraday_resistance_breakout"]
+	path = strategy2_intraday_resistance_breakout
+	url = https://github.com/muykhenglong/strategy2_intraday_resistance_breakout
