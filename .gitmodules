@@ -13,3 +13,6 @@
 [submodule "strategy4_intraday_renko_macd"]
 	path = strategy4_intraday_renko_macd
 	url = https://github.com/muykhenglong/strategy4_intraday_renko_macd
+[submodule "mt5_renko_macd"]
+	path = mt5_renko_macd
+	url = https://github.com/muykhenglong/mt5_renko_macd
